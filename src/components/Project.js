@@ -35,6 +35,14 @@ export default function Project() {
       link: "http://github.com/Syeda-Qurrat/Java-GUI-Calculator",
       technologies: ["Java", "Swing", "OOP"],
     },
+    {
+      id: 5,
+      title: "Portfolio Website",
+      description:
+        "A modern portfolio website built with React and Tailwind CSS.",
+      link: "https://portfolio-bootcamp-tau.vercel.app/",
+      technologies: ["React", "Tailwind CSS", "Responsive Design"],
+    },
   ];
 
   return (
